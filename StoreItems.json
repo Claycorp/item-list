@@ -9737,7 +9737,61 @@
 		"price": 3333,
 		"category": "Melee weapons",
 		"defname": "MeleeWeapon_Zeushammer"
+	},
+	{
+		"abr": "cryptocollar",
+		"price": 1083,
+		"category": "Apparel",
+		"defname": "Apparel_SlaveCollar_Crypto"
+	},
+	{
+		"abr": "electriccollar",
+		"price": 533,
+		"category": "Apparel",
+		"defname": "Apparel_SlaveCollar_Electric"
+	},
+	{
+		"abr": "explosivecollar",
+		"price": 442,
+		"category": "Apparel",
+		"defname": "Apparel_SlaveCollar_Explosive"
+	},
+	{
+		"abr": "isolinearprocessor",
+		"price": 500,
+		"category": "Manufactured",
+		"defname": "IsolinearProcessor"
+	},
+	{
+		"abr": "medpod",
+		"price": 4825,
+		"category": "Furniture",
+		"defname": "MedPodStandard"
+	},
+	{
+		"abr": "medpodlux",
+		"price": 4258,
+		"category": "Furniture",
+		"defname": "MedPodLux"
+	},
+	{
+		"abr": "slavecollar",
+		"price": 113,
+		"category": "Apparel",
+		"defname": "Apparel_SlaveCollar"
+	},
+	{
+		"abr": "tranquilizerturret",
+		"price": 1092,
+		"category": "Security",
+		"defname": "TranqTurretGun"
+	},
+	{
+		"abr": "tribalslavecollar",
+		"price": 101,
+		"category": "Apparel",
+		"defname": "Apparel_SlaveCollar_Tribal"
 	}
 	],
-	"total": 1623
+	"total": 1632
 }
