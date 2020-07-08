@@ -8,49 +8,49 @@
 	},
 	{
 		"abr": "(old)ceilinglamp",
-		"price": 49,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "CeilingLamp"
 	},
 	{
 		"abr": "(old)ceilinglamp",
-		"price": 49,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "CeilingLamp_Red"
 	},
 	{
 		"abr": "(old)ceilinglamp",
-		"price": 49,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "CeilingLamp_Blue"
 	},
 	{
 		"abr": "(old)ceilinglamp",
-		"price": 49,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "CeilingLamp_Green"
 	},
 	{
 		"abr": "(old)ceilinglamp",
-		"price": 49,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "CeilingLamp_Violet"
 	},
 	{
 		"abr": "(old)ceilinglamp",
-		"price": 49,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "CeilingLamp_Yellow"
 	},
 	{
 		"abr": "(old)ceilinglamp",
-		"price": 49,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "CeilingLamp_Orange"
 	},
 	{
 		"abr": "(old)walllamp",
-		"price": 45,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "WallLamp"
 	},
@@ -62,7 +62,7 @@
 	},
 	{
 		"abr": "aceticacidbacteria",
-		"price": 2,
+		"price": -10,
 		"category": "Fermenter Resources",
 		"defname": "FRMT_AceticAcidBacteria"
 	},
@@ -278,7 +278,7 @@
 	},
 	{
 		"abr": "ancientconcretebarrier",
-		"price": 51,
+		"price": -10,
 		"category": "Misc",
 		"defname": "AncientConcreteBarrier"
 	},
@@ -296,7 +296,7 @@
 	},
 	{
 		"abr": "ancientlamppost",
-		"price": 50,
+		"price": -10,
 		"category": "Misc",
 		"defname": "AncientLamppost"
 	},
@@ -728,7 +728,7 @@
 	},
 	{
 		"abr": "barfence",
-		"price": 8,
+		"price": -10,
 		"category": "Misc",
 		"defname": "Bar"
 	},
@@ -758,7 +758,7 @@
 	},
 	{
 		"abr": "barricade",
-		"price": 19,
+		"price": -10,
 		"category": "Misc",
 		"defname": "Barricade"
 	},
@@ -1238,13 +1238,13 @@
 	},
 	{
 		"abr": "blueairpipe",
-		"price": 3,
+		"price": -10,
 		"category": "Misc",
 		"defname": "blueAirPipe"
 	},
 	{
 		"abr": "blueairpipehidden",
-		"price": 16,
+		"price": -10,
 		"category": "Misc",
 		"defname": "blueAirPipeHidden"
 	},
@@ -1370,13 +1370,13 @@
 	},
 	{
 		"abr": "brickfence(short)",
-		"price": 8,
+		"price": -10,
 		"category": "Misc",
 		"defname": "ShortBrick"
 	},
 	{
 		"abr": "brickfence(tall)",
-		"price": 8,
+		"price": -10,
 		"category": "Misc",
 		"defname": "TallBrick"
 	},
@@ -1664,7 +1664,7 @@
 	},
 	{
 		"abr": "chainlinkfence",
-		"price": 8,
+		"price": -10,
 		"category": "Misc",
 		"defname": "TallChainLink"
 	},
@@ -2000,7 +2000,7 @@
 	},
 	{
 		"abr": "closeboardfence",
-		"price": 11,
+		"price": -10,
 		"category": "Misc",
 		"defname": "Closeboard"
 	},
@@ -2084,7 +2084,7 @@
 	},
 	{
 		"abr": "coldwaterpipe",
-		"price": 11,
+		"price": -10,
 		"category": "Misc",
 		"defname": "waterPipe"
 	},
@@ -2126,7 +2126,7 @@
 	},
 	{
 		"abr": "column",
-		"price": 71,
+		"price": -10,
 		"category": "Misc",
 		"defname": "Column"
 	},
@@ -2162,7 +2162,7 @@
 	},
 	{
 		"abr": "compoststarter",
-		"price": 2,
+		"price": -10,
 		"category": "Raw resources",
 		"defname": "VG_Compost"
 	},
@@ -2192,7 +2192,7 @@
 	},
 	{
 		"abr": "consoleloom",
-		"price": 11,
+		"price": -10,
 		"category": "Misc",
 		"defname": "controllerLoom"
 	},
@@ -2474,13 +2474,13 @@
 	},
 	{
 		"abr": "cyanairpipe",
-		"price": 3,
+		"price": -10,
 		"category": "Misc",
 		"defname": "cyanAirPipe"
 	},
 	{
 		"abr": "cyanairpipehidden",
-		"price": 16,
+		"price": -10,
 		"category": "Misc",
 		"defname": "cyanAirPipeHidden"
 	},
@@ -3032,7 +3032,7 @@
 	},
 	{
 		"abr": "embrasure",
-		"price": 54,
+		"price": -10,
 		"category": "Misc",
 		"defname": "ED_Embrasure"
 	},
@@ -3104,7 +3104,7 @@
 	},
 	{
 		"abr": "exoticcolumn",
-		"price": 71,
+		"price": -10,
 		"category": "Misc",
 		"defname": "AB_ExoticColumn"
 	},
@@ -3146,19 +3146,19 @@
 	},
 	{
 		"abr": "farmfence",
-		"price": 7,
+		"price": -10,
 		"category": "Misc",
 		"defname": "Farm"
 	},
 	{
 		"abr": "farmgate(horizontal)",
-		"price": 7,
+		"price": -10,
 		"category": "Misc",
 		"defname": "FarmGateHori"
 	},
 	{
 		"abr": "farmgate(vertical)",
-		"price": 7,
+		"price": -10,
 		"category": "Misc",
 		"defname": "FarmGateVerti"
 	},
@@ -3314,7 +3314,7 @@
 	},
 	{
 		"abr": "fermentedrottingmound",
-		"price": 2,
+		"price": -10,
 		"category": "Vegetarian",
 		"defname": "AA_RottingMoundItem"
 	},
@@ -3980,7 +3980,7 @@
 	},
 	{
 		"abr": "grave",
-		"price": 5,
+		"price": -10,
 		"category": "Misc",
 		"defname": "Grave"
 	},
@@ -4340,7 +4340,7 @@
 	},
 	{
 		"abr": "highvoltage",
-		"price": 11,
+		"price": -10,
 		"category": "Misc",
 		"defname": "HighVoltage"
 	},
@@ -4736,7 +4736,7 @@
 	},
 	{
 		"abr": "ironwood",
-		"price": 2,
+		"price": 5,
 		"category": "Raw resources",
 		"defname": "VG_IronWoodLog"
 	},
@@ -4886,7 +4886,7 @@
 	},
 	{
 		"abr": "lacticacidbacteria",
-		"price": 2,
+		"price": -10,
 		"category": "Fermenter Resources",
 		"defname": "FRMT_LacticAcidBacteria"
 	},
@@ -5816,7 +5816,7 @@
 	},
 	{
 		"abr": "mushroomstalks",
-		"price": 2,
+		"price": 5,
 		"category": "Raw resources",
 		"defname": "AB_MushroomWoodLog"
 	},
@@ -6188,7 +6188,7 @@
 	},
 	{
 		"abr": "oilpipeline",
-		"price": 5,
+		"price": -10,
 		"category": "Misc",
 		"defname": "OilPipeline"
 	},
@@ -6464,7 +6464,7 @@
 	},
 	{
 		"abr": "picketfence",
-		"price": 7,
+		"price": -10,
 		"category": "Misc",
 		"defname": "Picket"
 	},
@@ -6530,7 +6530,7 @@
 	},
 	{
 		"abr": "pileofdirt",
-		"price": 1,
+		"price": -10,
 		"category": "Raw resources",
 		"defname": "VG_PileofDirt"
 	},
@@ -6752,7 +6752,7 @@
 	},
 	{
 		"abr": "powerconduit",
-		"price": 3,
+		"price": -10,
 		"category": "Misc",
 		"defname": "PowerConduit"
 	},
@@ -7370,13 +7370,13 @@
 	},
 	{
 		"abr": "redairpipe",
-		"price": 3,
+		"price": -10,
 		"category": "Misc",
 		"defname": "redAirPipe"
 	},
 	{
 		"abr": "redairpipehidden",
-		"price": 16,
+		"price": -10,
 		"category": "Misc",
 		"defname": "redAirPipeHidden"
 	},
@@ -7436,7 +7436,7 @@
 	},
 	{
 		"abr": "redwood",
-		"price": 2,
+		"price": 5,
 		"category": "Raw resources",
 		"defname": "GU_RedWood"
 	},
@@ -7766,7 +7766,7 @@
 	},
 	{
 		"abr": "sandbags",
-		"price": 18,
+		"price": -10,
 		"category": "Misc",
 		"defname": "Sandbags"
 	},
@@ -8324,37 +8324,37 @@
 	},
 	{
 		"abr": "smoothedancientmetal",
-		"price": 30,
+		"price": -10,
 		"category": "Misc",
 		"defname": "AB_SmoothedAncientMetals"
 	},
 	{
 		"abr": "smoothedcragstone",
-		"price": 30,
+		"price": -10,
 		"category": "Misc",
 		"defname": "AB_SmoothedCragstone"
 	},
 	{
 		"abr": "smoothedmudstone",
-		"price": 30,
+		"price": -10,
 		"category": "Misc",
 		"defname": "AB_SmoothedMudstone"
 	},
 	{
 		"abr": "smoothedobsidian",
-		"price": 30,
+		"price": -10,
 		"category": "Misc",
 		"defname": "AB_SmoothedObsidian"
 	},
 	{
 		"abr": "smoothedquartz",
-		"price": 30,
+		"price": -10,
 		"category": "Misc",
 		"defname": "GU_SmoothedQuartz"
 	},
 	{
 		"abr": "smoothedslime",
-		"price": 30,
+		"price": -10,
 		"category": "Misc",
 		"defname": "AB_SmoothedSlimeStone"
 	},
@@ -8390,13 +8390,13 @@
 	},
 	{
 		"abr": "solidfence",
-		"price": 7,
+		"price": -10,
 		"category": "Misc",
 		"defname": "Solid"
 	},
 	{
 		"abr": "solidgate(horizontal)",
-		"price": 7,
+		"price": -10,
 		"category": "Misc",
 		"defname": "SolidGateHori"
 	},
@@ -9224,13 +9224,13 @@
 	},
 	{
 		"abr": "uncuredplasteel",
-		"price": 3,
+		"price": -10,
 		"category": "Raw resources",
 		"defname": "UncuredPlasteel"
 	},
 	{
 		"abr": "uncuredsynthamidecomposite",
-		"price": 3,
+		"price": -10,
 		"category": "Synthamide",
 		"defname": "UncuredComposite"
 	},
@@ -9374,7 +9374,7 @@
 	},
 	{
 		"abr": "wall",
-		"price": 17,
+		"price": -10,
 		"category": "Misc",
 		"defname": "Wall"
 	},
@@ -9488,7 +9488,7 @@
 	},
 	{
 		"abr": "waterproofconduit",
-		"price": 32,
+		"price": -10,
 		"category": "Misc",
 		"defname": "WaterproofConduit"
 	},
@@ -9584,7 +9584,7 @@
 	},
 	{
 		"abr": "window",
-		"price": 25,
+		"price": -10,
 		"category": "Misc",
 		"defname": "Window"
 	},
@@ -9602,7 +9602,7 @@
 	},
 	{
 		"abr": "wood",
-		"price": 2,
+		"price": 5,
 		"category": "Raw resources",
 		"defname": "WoodLog"
 	},

@@ -1,16 +1,6 @@
 {
 	"incitems" : [
 	{
-		"abr": "tornado",
-		"price": 800,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "tornados",
-		"price": 2600,
-		"karmatype": "Bad"
-	},
-	{
 		"abr": "clearweather",
 		"price": 400,
 		"karmatype": "Good"
@@ -208,7 +198,7 @@
 	{
 		"abr": "party",
 		"price": 400,
-		"karmatype": "Good"
+		"karmatype": "Neutral"
 	},
 	{
 		"abr": "alphabeavers",
@@ -331,10 +321,10 @@
 		"karmatype": "Neutral"
 	},
 	{
-		"abr": "hodlbotvote",
+		"abr": "holdbotvote",
 		"price": 600,
 		"karmatype": "Neutral"
 	}
 	],
-	"total": 67
+	"total": 65
 }
