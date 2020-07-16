@@ -9791,7 +9791,415 @@
 		"price": 101,
 		"category": "Apparel",
 		"defname": "Apparel_SlaveCollar_Tribal"
+	},
+	{
+		"abr": "advancedmechanoidchip",
+		"price": 92,
+		"category": "Manufactured",
+		"defname": "WTH_MechanoidChip"
+	},
+	{
+		"abr": "alloyfusionmachine",
+		"price": 12817,
+		"category": "Production",
+		"defname": "AlloyFusionMachine_AA"
+	},
+	{
+		"abr": "antimatterblaster",
+		"price": 3167,
+		"category": "Ranged weapons",
+		"defname": "AntimatterBlaster_AA"
+	},
+	{
+		"abr": "antimattercanister",
+		"price": 108,
+		"category": "Raw resources",
+		"defname": "AntimatterCanister_AA"
+	},
+	{
+		"abr": "antimattercomposite",
+		"price": 43,
+		"category": "Raw resources",
+		"defname": "AntimatterComposite_AA"
+	},
+	{
+		"abr": "antimattergrenadelauncher",
+		"price": 5150,
+		"category": "Ranged weapons",
+		"defname": "AntimatterGrenadeLauncher_AA"
+	},
+	{
+		"abr": "antimattergrenades",
+		"price": 583,
+		"category": "Grenades",
+		"defname": "AntimatterGrenades_AA"
+	},
+	{
+		"abr": "antimatterrailgun",
+		"price": 7417,
+		"category": "Misc",
+		"defname": "Turret_AntimatterRailgun_AA"
+	},
+	{
+		"abr": "antimatterreactor",
+		"price": 10792,
+		"category": "Misc",
+		"defname": "AntimatterReactor_AA"
+	},
+	{
+		"abr": "antimatterrifle",
+		"price": 4667,
+		"category": "Ranged weapons",
+		"defname": "AntimatterRifle_AA"
+	},
+	{
+		"abr": "antimattersmg",
+		"price": 5333,
+		"category": "Ranged weapons",
+		"defname": "AntimatterSMG_AA"
+	},
+	{
+		"abr": "antimattersniperrifle",
+		"price": 4750,
+		"category": "Ranged weapons",
+		"defname": "AntimatterSniperRifle_AA"
+	},
+	{
+		"abr": "armormodule",
+		"price": 1483,
+		"category": "Manufactured",
+		"defname": "WTH_ArmorModule"
+	},
+	{
+		"abr": "batteryexpansionmodule",
+		"price": 1183,
+		"category": "Manufactured",
+		"defname": "WTH_BatteryExpansionModule"
+	},
+	{
+		"abr": "beltmodule",
+		"price": 1175,
+		"category": "Manufactured",
+		"defname": "WTH_BeltModule"
+	},
+	{
+		"abr": "cargomodule",
+		"price": 950,
+		"category": "Manufactured",
+		"defname": "WTH_CargoModule"
+	},
+	{
+		"abr": "cleaningmodule",
+		"price": 1042,
+		"category": "Manufactured",
+		"defname": "WTH_CleaningModule"
+	},
+	{
+		"abr": "compositerefiner",
+		"price": 1642,
+		"category": "Production",
+		"defname": "CompositeRefiner_AA"
+	},
+	{
+		"abr": "devastatorlmg",
+		"price": 6333,
+		"category": "Ranged weapons",
+		"defname": "DevastatorLMG_AA"
+	},
+	{
+		"abr": "devastatorsmartgun",
+		"price": 8667,
+		"category": "Ranged weapons",
+		"defname": "DevastatorSmartGun_AA"
+	},
+	{
+		"abr": "devastatorsniperrifle",
+		"price": 8333,
+		"category": "Ranged weapons",
+		"defname": "DevastatorSniperRifle_AA"
+	},
+	{
+		"abr": "extractedbraindata",
+		"price": 58,
+		"category": "Manufactured",
+		"defname": "WTH_ExtractedBrainData"
+	},
+	{
+		"abr": "firefightingmodule",
+		"price": 842,
+		"category": "Manufactured",
+		"defname": "WTH_FirefightingModule"
+	},
+	{
+		"abr": "galvaknuckles",
+		"price": 1492,
+		"category": "Melee weapons",
+		"defname": "Galvaknuckles_AA"
+	},
+	{
+		"abr": "growingmodule",
+		"price": 1400,
+		"category": "Manufactured",
+		"defname": "WTH_GrowingModule"
+	},
+	{
+		"abr": "haulingmodule",
+		"price": 1525,
+		"category": "Manufactured",
+		"defname": "WTH_HaulingModule"
+	},
+	{
+		"abr": "hivedata",
+		"price": 58,
+		"category": "Manufactured",
+		"defname": "WTH_MechanoidData"
+	},
+	{
+		"abr": "hiveshiphackingfacility",
+		"price": 4267,
+		"category": "Misc",
+		"defname": "WTH_MechanoidBeacon"
+	},
+	{
+		"abr": "hyperalloy",
+		"price": 400,
+		"category": "Raw resources",
+		"defname": "HyperAlloy_AA"
+	},
+	{
+		"abr": "hypercomponent",
+		"price": 583,
+		"category": "Raw resources",
+		"defname": "HyperComponent_AA"
+	},
+	{
+		"abr": "inputtray(legacy)",
+		"price": 66,
+		"category": "Misc",
+		"defname": "InputTray_AA"
+	},
+	{
+		"abr": "karambit",
+		"price": 350,
+		"category": "Melee weapons",
+		"defname": "Karambit_AA"
+	},
+	{
+		"abr": "m3g_umin",
+		"price": 11883,
+		"category": "Security",
+		"defname": "Megumin_AA"
+	},
+	{
+		"abr": "mbd",
+		"price": 5567,
+		"category": "Security",
+		"defname": "Turret_MBD_AA"
+	},
+	{
+		"abr": "mechanoidcontrollerbelt",
+		"price": 1242,
+		"category": "Apparel",
+		"defname": "WTH_Apparel_MechControllerBelt"
+	},
+	{
+		"abr": "mechanoidhackingfacility",
+		"price": 1200,
+		"category": "Misc",
+		"defname": "WTH_HackingTable"
+	},
+	{
+		"abr": "mechanoidparts",
+		"price": 17,
+		"category": "Manufactured",
+		"defname": "WTH_MechanoidParts"
+	},
+	{
+		"abr": "mechanoidplatform",
+		"price": 742,
+		"category": "Misc",
+		"defname": "WTH_MechanoidPlatform"
+	},
+	{
+		"abr": "mechanoidworkshop",
+		"price": 1917,
+		"category": "Production",
+		"defname": "WTH_TableMechanoidWorkshop"
+	},
+	{
+		"abr": "n²mine",
+		"price": 383,
+		"category": "Security",
+		"defname": "TrapIED_N2Mine_AA"
+	},
+	{
+		"abr": "opticsensormodule",
+		"price": 767,
+		"category": "Manufactured",
+		"defname": "WTH_OpticSensorModule"
+	},
+	{
+		"abr": "overdrivemodule",
+		"price": 767,
+		"category": "Manufactured",
+		"defname": "WTH_OverdriveModule"
+	},
+	{
+		"abr": "particleaccelerator",
+		"price": 7808,
+		"category": "Misc",
+		"defname": "ParticleAccelerator_AA"
+	},
+	{
+		"abr": "portablechargingplatform",
+		"price": 658,
+		"category": "Furniture",
+		"defname": "WTH_PortableChargingPlatform"
+	},
+	{
+		"abr": "portabledisassemblingbench",
+		"price": 967,
+		"category": "Furniture",
+		"defname": "WTH_PortableDisassemblingBench"
+	},
+	{
+		"abr": "powernetconsole",
+		"price": 817,
+		"category": "Power",
+		"defname": "PowerNetConsole_AA"
+	},
+	{
+		"abr": "reactorinjector",
+		"price": 3525,
+		"category": "Misc",
+		"defname": "AntimatterReactorInjector_AA"
+	},
+	{
+		"abr": "reactorpowerconverter",
+		"price": 3792,
+		"category": "Power",
+		"defname": "AntimatterReactorPowerConverter_AA"
+	},
+	{
+		"abr": "repairarm",
+		"price": 725,
+		"category": "Manufactured",
+		"defname": "WTH_RepairArm"
+	},
+	{
+		"abr": "repairmodule",
+		"price": 1158,
+		"category": "Manufactured",
+		"defname": "WTH_RepairModule"
+	},
+	{
+		"abr": "resonatingblade",
+		"price": 4625,
+		"category": "Melee weapons",
+		"defname": "ResonatingBlade_AA"
+	},
+	{
+		"abr": "scissorblade",
+		"price": 3950,
+		"category": "Melee weapons",
+		"defname": "ScissorBlade_AA"
+	},
+	{
+		"abr": "secretsword",
+		"price": 3800,
+		"category": "Melee weapons",
+		"defname": "SecretSword_AA"
+	},
+	{
+		"abr": "selfdestructmodule",
+		"price": 417,
+		"category": "Manufactured",
+		"defname": "WTH_SelfDestructModule"
+	},
+	{
+		"abr": "speedmodule",
+		"price": 750,
+		"category": "Manufactured",
+		"defname": "WTH_SpeedModule"
+	},
+	{
+		"abr": "sraf:canary",
+		"price": 20258,
+		"category": "Buildings",
+		"defname": "SRAF"
+	},
+	{
+		"abr": "sraf:tek-7",
+		"price": 31292,
+		"category": "Buildings",
+		"defname": "SRAFTek"
+	},
+	{
+		"abr": "srtsmk.i:skip",
+		"price": 9150,
+		"category": "Buildings",
+		"defname": "SRTSSkip"
+	},
+	{
+		"abr": "srtsmk.ii:albatross",
+		"price": 29875,
+		"category": "Buildings",
+		"defname": "SRTSMkII"
+	},
+	{
+		"abr": "srtsmk.iii:phoenix",
+		"price": 52792,
+		"category": "Buildings",
+		"defname": "SRTSMkIII"
+	},
+	{
+		"abr": "srtsmk.iiip:pelican",
+		"price": 61100,
+		"category": "Buildings",
+		"defname": "SRTSMkIIIp"
+	},
+	{
+		"abr": "srtsmk.iv:genesis",
+		"price": 218617,
+		"category": "Buildings",
+		"defname": "SRTSMkIV"
+	},
+	{
+		"abr": "superpod",
+		"price": 6958,
+		"category": "Buildings",
+		"defname": "SRTSSuperpod"
+	},
+	{
+		"abr": "thundergun",
+		"price": 2900,
+		"category": "Security",
+		"defname": "Turret_ThunderGun_AA"
+	},
+	{
+		"abr": "turretmodule",
+		"price": 1500,
+		"category": "Manufactured",
+		"defname": "WTH_TurretModule"
+	},
+	{
+		"abr": "vanometricpowercellmodule",
+		"price": 2875,
+		"category": "Manufactured",
+		"defname": "WTH_VanometricModule"
+	},
+	{
+		"abr": "voidarmor",
+		"price": 5075,
+		"category": "Armor",
+		"defname": "Apparel_VoidArmor_AA"
+	},
+	{
+		"abr": "voidhelmet",
+		"price": 2900,
+		"category": "Headgear",
+		"defname": "Apparel_VoidHelmet_AA"
 	}
 	],
-	"total": 1632
+	"total": 1700
 }
